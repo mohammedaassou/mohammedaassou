@@ -1,4 +1,4 @@
-## Hi there 👋
+# 🏄‍♂️ Mohamed Aassou 
 
 Welcome to my GitHub profile! I'm **Mohamed**, passionate about **coding**, **problem-solving**, and finding innovative solutions to real-life challenges. As a  **computer engineering student**, I strive to build impactful projects that make a difference.
 
